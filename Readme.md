@@ -1,1 +1,1 @@
-## Primer Curso de Programación de Arduino - Unipaz
+## Primer Curso de Programación en Arduino - Unipaz
