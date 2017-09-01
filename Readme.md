@@ -41,8 +41,11 @@ tecnología actual.
 ### DESCRIPCIÓN DEL CURSO
 
 **NOMBRE**: Primer Curso De Programación En Arduino
+
 **DIRIGIDO A**: Estudiantes y Docentes de Ingenierías.
+
 **DURACIÓN**:	20 Horas
+
 **MODALIDAD**:	Presencial + Virtual
 
 **DISTRIBUICIÓN de HORAS**:	3 horas presenciales y 1 virtual por clase.
