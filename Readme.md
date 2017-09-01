@@ -50,7 +50,7 @@ tecnología actual.
 
 **DISTRIBUICIÓN de HORAS**:	3 horas presenciales y 1 virtual por clase.
 
-**HORARIOS**:	Sábados de 8 a 11:00 p.m. y Jueves de 1 a 4:00 p.m..
+**HORARIOS**:	Sábados de 8 a 11:00 a.m. y Jueves de 1 a 4:00 p.m..
 
 ----------------------
 
@@ -68,3 +68,30 @@ tecnología actual.
 - Interacción con sensores y actuadores (ADC, PWM, I2C, SPI, GPIO).
 - Uso de librerías, puesta en funcionamiento de un display lcd 2x16, uso de memoria EEPROM.
 - Proyecto Final.
+--------------------
+
+### PLANEACIÓN DE AULAS
+
+**Grupo 1**
+
+**Grupo 2**
+
+------------------
+
+### HERRAMIENTAS DE SOFTWARE
+Para realizar el curso se utilizará el entorno de desarrollo oficial del Arduino, el cual es un entorno de uso libre, será necesario instalar el controlador (driver) del Arduino en cada computador a ser utilizado.
+Adicionalmente se utilizará un navegador web para acceder a recursos didácticos que se encuentran en internet.
+
+### HERRAMIENTAS DE HARDWARE
+Las herramientas de hardware requeridas para el curso se basan en una tarjeta de desarrollo Arduino, protoboard, indicadores, actuadores entre otros. Se plantean dos Kits de trabajo, el cual debe ser definido previo al inicio del curso.
+
+## HORARIOS
+
+Serán ofertados dos horarios a la comunidad académica con el fin de lograr una mayor cobertura y brindar oportunidad de participación a los alumnos de todas las jornadas.
+
+**HORARIOS**
+
+```
+HORARIO 1:	Sábados de 8 a 11:00 a.m Sede Investigación Santa Lucia.
+HORARIO 2:	Jueves de 1 a 4:00 p.m Sede Investigación Santa Lucia.
+```
