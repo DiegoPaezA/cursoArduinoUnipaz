@@ -42,7 +42,7 @@ tecnología actual.
 
 **NOMBRE**: Primer Curso De Programación En Arduino
 
-**DIRIGIDO A**: Estudiantes y Docentes de Ingenierías.
+**DIRIGIDO A**: Estudiantes y Docentes de Ingenierías UNIPAZ.
 
 **DURACIÓN**:	20 Horas
 
