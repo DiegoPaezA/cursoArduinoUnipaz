@@ -70,14 +70,6 @@ tecnología actual.
 - Proyecto Final.
 --------------------
 
-### PLANEACIÓN DE AULAS
-
-**Grupo 1**
-
-**Grupo 2**
-
-------------------
-
 ### HERRAMIENTAS DE SOFTWARE
 Para realizar el curso se utilizará el entorno de desarrollo oficial del Arduino, el cual es un entorno de uso libre, será necesario instalar el controlador (driver) del Arduino en cada computador a ser utilizado.
 Adicionalmente se utilizará un navegador web para acceder a recursos didácticos que se encuentran en internet.
