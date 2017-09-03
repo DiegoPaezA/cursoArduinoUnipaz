@@ -6,6 +6,8 @@
 
 int led1 = 2;
 int led2 = 3;
+int a = 1, b=2;
+
 
 // La rutina de configuración se ejecuta cuando se presiona el boton de reset
 void setup() {

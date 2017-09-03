@@ -60,8 +60,8 @@ tecnología actual.
 
 - Componentes básicos y símbolos de electrónica, como usar una protoboard.
 - Entorno de desarrollo Arduino (Instalación IDE, Shields, Librerías, Pines IO).
-- Conceptos básicos de programación en C (Operadores, tipos de variables, condicionales, ciclos-loops, funciones, variables globales).
- - Programación en Arduino (Estructura básica de un programa-sketch, funciones principales, acceso a pines IO).
+- Conceptos básicos de programación en C (Operadores, tipos de variables, condicionales,    ciclos-loops, funciones, variables globales).
+- Programación en Arduino (Estructura básica de un programa-sketch, funciones principales, acceso a pines IO).
 - Describir las arquitecturas comunes de depuración para sistemas embebidos.
 - Requisitos básicos de depuración: control y observación.
 - Explicar cómo funciona el protocolo de comunicación serie UART.
@@ -83,7 +83,7 @@ Serán ofertados dos horarios a la comunidad académica con el fin de lograr una
 
 **HORARIOS**
 
-```
-HORARIO 1:	Sábados de 8 a 11:00 a.m Sede Investigación Santa Lucia.
-HORARIO 2:	Jueves de 1 a 4:00 p.m Sede Investigación Santa Lucia.
-```
+HORARIO 1                       | HORARIO 2
+:-------------------:           | :-------------------:   
+Sábados de 8 a 11:00 a.m        | Jueves de 1 a 4:00 p.m
+Sede Investigación Santa Lucia. | Sede Investigación Santa Lucia.
