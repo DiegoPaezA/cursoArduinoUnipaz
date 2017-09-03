@@ -77,7 +77,7 @@ Adicionalmente se utilizará un navegador web para acceder a recursos didáctico
 ### HERRAMIENTAS DE HARDWARE
 Las herramientas de hardware requeridas para el curso se basan en una tarjeta de desarrollo Arduino, protoboard, indicadores, actuadores entre otros. Se plantean dos Kits de trabajo, el cual debe ser definido previo al inicio del curso.
 
-## HORARIOS
+### HORARIOS
 
 Serán ofertados dos horarios a la comunidad académica con el fin de lograr una mayor cobertura y brindar oportunidad de participación a los alumnos de todas las jornadas.
 
