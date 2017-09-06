@@ -1,6 +1,5 @@
 /*
-  Blink secuencia de Leds Utilizando un Bucle For
-  Controlar el encendido y apagado de una secuencia de 4 leds.
+  Controlar el bucle while utilizando un pulsador
 
   Simulación:
 
