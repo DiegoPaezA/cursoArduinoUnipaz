@@ -38,14 +38,12 @@ void loop() {
   estado1 = digitalRead(pulsador1);   // lee valor en pulsador1 de entrada
   
   while(estado1 != 0){
-
     for(int i= 0; i<4; i++){
       digitalWrite(myPins[i], HIGH);
       delay(tiempo);
       digitalWrite(myPins[i], LOW);
     }
     estado1 = digitalRead(pulsador1);   // lee valor en pulsador1 de entrada
-
   }
 
   
