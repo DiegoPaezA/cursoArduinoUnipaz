@@ -94,13 +94,7 @@ void loop() {
       digitalWrite(led4, HIGH);    // Apagar el Led2 haciendo que el voltaje sea LOW
       delay(tiempo);
     }
-    //Función definida por el usuario
-    if (estado2 == HIGH) {
-
-    } else if (estado2 == LOW) {
-
-    }
-
+   
   }
 
 }
