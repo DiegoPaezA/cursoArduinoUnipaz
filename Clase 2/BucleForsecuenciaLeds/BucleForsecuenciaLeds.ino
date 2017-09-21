@@ -19,7 +19,7 @@ int tiempo = 500;
 void setup() {
   // Inicializar los pines Digitales como Salidas
   for(int i= 0; i<4; i++){
-    pinMode(i, OUTPUT);
+    pinMode(myPins[i], OUTPUT);
   }
 
 }
