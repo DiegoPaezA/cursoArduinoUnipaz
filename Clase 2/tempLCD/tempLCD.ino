@@ -40,17 +40,12 @@ void loop() {
 
 float leerTemperatura (float raw) {
   float V =  raw / 1024 * Vcc;
-
   float R = (Rc * V ) / (Vcc - V);
-
-
   float logR  = log(R);
   float R_th = 1.0 / (A + B * logR + C * logR * logR * logR );
-
   float kelvin = R_th - V * V / (K * R) * 1000;
   float celsius = kelvin - 273.15;
   return celsius;
-
 }
 
 
